@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\eventTest\eventTest\bin\Debug\netcoreapp2.1\eventStoreSales.deps.json
+C:\Users\ASUS\source\repos\eventTest\eventTest\bin\Debug\netcoreapp2.1\eventStoreSales.runtimeconfig.json
+C:\Users\ASUS\source\repos\eventTest\eventTest\bin\Debug\netcoreapp2.1\eventStoreSales.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\eventTest\eventTest\bin\Debug\netcoreapp2.1\eventStoreSales.dll
+C:\Users\ASUS\source\repos\eventTest\eventTest\bin\Debug\netcoreapp2.1\eventStoreSales.pdb
+C:\Users\ASUS\source\repos\eventTest\eventTest\obj\Debug\netcoreapp2.1\eventStoreSales.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\eventTest\eventTest\obj\Debug\netcoreapp2.1\eventStoreSales.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\eventTest\eventTest\obj\Debug\netcoreapp2.1\eventStoreSales.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\eventTest\eventTest\obj\Debug\netcoreapp2.1\eventStoreSales.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\eventTest\eventTest\obj\Debug\netcoreapp2.1\eventStoreSales.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\eventTest\eventTest\obj\Debug\netcoreapp2.1\eventStoreSales.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\eventTest\eventTest\obj\Debug\netcoreapp2.1\eventStoreSales.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\source\repos\eventTest\eventTest\obj\Debug\netcoreapp2.1\eventStoreSales.dll
+C:\Users\ASUS\source\repos\eventTest\eventTest\obj\Debug\netcoreapp2.1\eventStoreSales.pdb
