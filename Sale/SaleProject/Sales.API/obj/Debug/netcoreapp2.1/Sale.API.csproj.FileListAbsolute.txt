@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\bin\Debug\netcoreapp2.1\Sale.API.deps.json
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\bin\Debug\netcoreapp2.1\Sale.API.runtimeconfig.json
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\bin\Debug\netcoreapp2.1\Sale.API.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\bin\Debug\netcoreapp2.1\Sale.API.dll
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\bin\Debug\netcoreapp2.1\Sale.API.pdb
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\bin\Debug\netcoreapp2.1\Sale.Domain.dll
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\bin\Debug\netcoreapp2.1\Sale.Domain.pdb
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\obj\Debug\netcoreapp2.1\Sale.API.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\obj\Debug\netcoreapp2.1\Sale.API.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\obj\Debug\netcoreapp2.1\Sale.API.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\obj\Debug\netcoreapp2.1\Sale.API.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\obj\Debug\netcoreapp2.1\Sale.API.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\obj\Debug\netcoreapp2.1\Sale.API.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\obj\Debug\netcoreapp2.1\Sale.API.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\obj\Debug\netcoreapp2.1\Sale.API.csproj.CopyComplete
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\obj\Debug\netcoreapp2.1\Sale.API.dll
+C:\Users\ASUS\Desktop\LDS\dev to do\Sale\SaleProject\Sale.API\obj\Debug\netcoreapp2.1\Sale.API.pdb
